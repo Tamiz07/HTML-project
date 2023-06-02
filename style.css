@@ -1,0 +1,17 @@
+
+body {
+    padding: 1rem;
+    background-color: whitesmoke;
+    color: black;
+    font-family: 'Poppins', 'sans-serif';
+}
+
+h1, h2, h3 {
+    font-weight: 500;
+}
+
+table, tr, th, td, caption {
+    border: 1px solid #c4c3c3;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
